@@ -184,7 +184,7 @@ html {
   position: relative;
   padding-top: 50%;
   margin-top: 46px;
-  background: url('/assets/Img/Slider/newyork.jpg') top center / cover no-repeat;
+  background: url(../Img/Slider/newyork.jpg) top center / cover no-repeat;
   width: 100%;
   height: 100%;
 }
